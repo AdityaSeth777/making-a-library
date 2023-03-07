@@ -48,7 +48,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Unlicense © Aditya Seth](https://github.com/AdityaSeth777/PCC-CS494/blob/main/LICENSE)
+[Unlicense © Aditya Seth](https://github.com/AdityaSeth777/making-a-library/blob/main/LICENSE)
 
 ## What next?
 I will be working on improving the library.
