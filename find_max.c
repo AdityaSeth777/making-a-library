@@ -52,3 +52,4 @@ void quick_sort(int *arr, int low, int high) {
         quick_sort(arr, pi+1, high);
     }
 }
+
