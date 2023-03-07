@@ -6,6 +6,15 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     // Function implementation
 }
 
+void printArray(int *arr, int n){
+	int i = 0;
+	while(i < n){
+		printf("%d ", arr[i]);
+		i += 1;
+	}
+	printf("\n");
+}
+//Ayush Ghosal
 
 int main() {
     int arr[] = {9, 5, 7, 2, 8, 4, 1, 6, 3};
@@ -15,11 +24,7 @@ int main() {
     bubble_sort(arr, n);
 
     // Print the sorted array
-    printf("Sorted array: ");
-    for (int i = 0; i < n; i++) {
-        printf("%d ", arr[i]);
-    }
-    printf("\n");
+    printArray(arr, n);
     return 0;
 }
 //Aditya Seth
