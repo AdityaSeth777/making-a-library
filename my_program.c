@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include "func.h"
+#include <windows.h>
+
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
+    // Function implementation
+}
+
 
 int main() {
     int arr[] = {9, 5, 7, 2, 8, 4, 1, 6, 3};
