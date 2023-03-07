@@ -8,5 +8,6 @@ void heap_sort(int *arr, int n);
 int find_max(int *arr, int n);
 int find_min(int *arr, int n);
 void swap(int *arr, int i, int j);
+//Aditya Seth :)
 
 #endif // FUNC_H_INCLUDED
