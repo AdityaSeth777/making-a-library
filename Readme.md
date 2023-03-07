@@ -36,7 +36,7 @@ gcc -c insertion_sort -o lib5.o
 gcc -c shell_sort -o lib6.o
 gcc -c my_program.c -o as_run.o
 
-gcc lib1.o lib2.o lib3.o lib4.o as_run.o -o okay
+gcc lib1.o lib2.o lib3.o lib4.o lib5.o lib6.o as_run.o -o okay
 ./okay.exe
 ```
 4. Output is ready.
