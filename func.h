@@ -10,4 +10,8 @@ int find_min(int *arr, int n);
 void swap(int *arr, int i, int j);
 //Aditya Seth :)
 
+void insertion_sort(int *arr, int n);
+void shell_sort(int *arr, int n);
+//Ayush Ghosal :)
+
 #endif // FUNC_H_INCLUDED
